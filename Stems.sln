@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stems", "Stems\Stems.csproj", "{C7979F14-01E9-489F-8F82-6B31D8A700DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StemsTests", "StemsTests\StemsTests.csproj", "{D46D0290-617B-4269-9B70-305E8BC29696}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7979F14-01E9-489F-8F82-6B31D8A700DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7979F14-01E9-489F-8F82-6B31D8A700DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7979F14-01E9-489F-8F82-6B31D8A700DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7979F14-01E9-489F-8F82-6B31D8A700DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D46D0290-617B-4269-9B70-305E8BC29696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46D0290-617B-4269-9B70-305E8BC29696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46D0290-617B-4269-9B70-305E8BC29696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46D0290-617B-4269-9B70-305E8BC29696}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58ACB96E-8B6E-4F3A-8A3E-AC65945E8F8D}
+	EndGlobalSection
+EndGlobal
